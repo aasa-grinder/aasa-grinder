@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Amirali Sharifi Asl
+- 👀 I’m interested in programming & games
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on making website
